@@ -7,7 +7,7 @@ Fullstack Developer and Designer
 I'm coding for 1 year and I'm passionate about technology. I started as a graphic designer but I'm currently transitioning to the IT area. My main stacks are: ReactJs, NodeJs and MongoDb. Meet some of my personal projects here on my profile. ;-)
 
 * 🌍  I'm based in Teresina, Piauí - Brazil
-* ✉️  You can contact me at [izaias.sferreira@gmail.com](mailto:izaias.sferreira@gmail.com)
+* ✉️  You can contact me at [contato@izaiasferreira.com.br](mailto:contato@izaiasferreira.com.br)
 
 ### Skills
 
